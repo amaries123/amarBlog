@@ -1,0 +1,2 @@
+# amarBlog
+git blog
